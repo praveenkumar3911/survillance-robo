@@ -1,2 +1,2 @@
-# survillance-robo
-This project is basically survillance robo
+# Obstacle avoidance-robo
+This project is basically obstacle avoidance robo
